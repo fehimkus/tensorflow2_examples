@@ -1,2 +1,2 @@
-# tensorflow2_examples
-tensorflow 2 neural network examples
+# tensorflow_examples
+tensorflow neural network examples
